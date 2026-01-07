@@ -51,10 +51,6 @@ El script sigue un flujo de decisión lógica para aislar el problema:
 | **3** | **Capa 3 (Red)** | Ping ICMP al host destino. | Problema de enrutamiento, ISP caído o bloqueo ICMP. |
 | **4** | **Capa 4 (Transporte)** | Handshake TCP al puerto 443 (`Test-NetConnection`). | Firewall bloqueando el puerto o servicio web detenido. |
 
-## 📸 Capturas de Pantalla
-
-*(Opcional: Aquí puedes agregar una captura de pantalla de tu script funcionando)*
-`![Ejemplo de Ejecución](./screenshot.png)`
 
 ## 🤝 Contribución
 

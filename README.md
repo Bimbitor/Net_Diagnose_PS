@@ -94,5 +94,3 @@ Cantidad de iteraciones: 3
 ---
 
 *Este proyecto fue desarrollado bajo estándares de código de producción para entornos Windows.*
-
-```
